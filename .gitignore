@@ -1,0 +1,22 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+
+# Python / tooling cache (in case you script things)
+__pycache__/
+*.pyc
+.venv/
+
+# Local notes you don't want committed
+notes/
+*.tmp
+*.bak
+
+# Large raw assets (only commit cleaned images)
+raw_assets/
+
